@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HFL1</string>
+    <string name="HelloWorld">Hello</string>
 </resources>
